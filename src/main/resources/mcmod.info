@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ModdersMonsters",
+  "name": "Modder's Monsters",
+  "description": "A Mod with unique Monsters",
+  "version": "${1.0}",
+  "mcversion": "${1.7.10}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ModMayhem (HydraLord 101)"],
+  "credits": "ModMayhem (HydraLord 101), And whoever made the angelfire monster idea gen inputs.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
